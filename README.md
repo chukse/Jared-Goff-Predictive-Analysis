@@ -82,3 +82,8 @@ The data used in this project is sourced from multiple reliable sources:
 ## Contributions
 
 Contributions to this project are welcome! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Please ensure that your contributions adhere to the project's coding standards and include relevant tests.
+
+## License
+
+This code is all written in Markdown, and you can directly copy and paste it into your `README.md` file in your GitHub repository.
+
