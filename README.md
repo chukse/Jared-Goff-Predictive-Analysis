@@ -13,7 +13,6 @@ The project is structured into several key components, including data collection
 - [Usage](#usage)
 - [Data Sources](#data-sources)
 - [Analysis Methodology](#analysis-methodology)
-- [Future Work](#future-work)
 - [Contributions](#contributions)
 - [License](#license)
 
